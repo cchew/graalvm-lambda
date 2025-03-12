@@ -1,0 +1,7 @@
+.aws-sam
+.gradle
+target
+
+.DS_Store
+outfile
+samconfig.toml
