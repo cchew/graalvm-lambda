@@ -1,7 +1,7 @@
 # Java for GraalVM and AWS Lambda
 This code is part of the 'Java for GraalVM and AWS Lambda' introductory presentation.
 
-1. `csv-parser-java` - for comparing performance of vanilla Java and GraalVM when parsing 1 million row CSV file.
+1. `csv-parser-java` - for building and running vanilla Java and GraalVM CSV parser.
 1. `sam-java21` - for building and deploying Java 21 AWS Lambda
 1. `sam-graalvm17` - for building and deploying GraalVM 17 AWS Lambda
 

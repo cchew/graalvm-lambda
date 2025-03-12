@@ -1,5 +1,5 @@
 # sam-graalvm17
-SAM CLI generated GraalVM 17 project merged with tutorial from:
+SAM CLI generated (`sam init`) GraalVM 17 project merged with tutorial from:
 
 https://www.formkiq.com/blog/tutorials/aws-lambda-graalvm/
 
@@ -14,7 +14,6 @@ Updates:
 Commands:
 
 ```
-sam init
 sam build
 sam deploy --guided
 

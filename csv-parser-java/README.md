@@ -31,8 +31,14 @@ To run JAR:
 java -jar target/csv-parser-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-Compile to native image (after install GraalVM using SDKMAN):
+Compile to native image:
 
 ```
 native-image -jar target/csv-parser-1.0-SNAPSHOT-jar-with-dependencies.jar
+```
+
+To run the native image:
+
+```
+./csv-parser-1.0-SNAPSHOT-jar-with-dependencies
 ```
