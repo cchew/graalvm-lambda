@@ -48,6 +48,6 @@ def write_to_csv(file_name, row_count):
         writer.writerows(rows)  # Write rows of random data
 
 # Generate a CSV file with 100000 rows
-write_to_csv("sample_1000000_rows.csv", 1000000)
+write_to_csv("sample_1000000.csv", 1000000)
 
 print("CSV file with 100000 rows has been generated: 'sample_1000000.csv'")
