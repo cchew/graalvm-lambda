@@ -14,6 +14,7 @@ The following will be required:
 1. Python (to generate the 1 million row CSV file) - https://www.python.org/downloads/
 1. AWS Serverless Application Model (SAM) - https://aws.amazon.com/serverless/sam/
 1. AWS account (Free Tier is fine) - https://aws.amazon.com/free
+1. Docker (to build Amazon Linux native image for AWS Lambda) - https://www.docker.com/get-started/
 
 ## Disclaimer
 This has only been tested on MacOS so might not work on all platforms without changes.
